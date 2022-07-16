@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VasishtGR
+# <p align="center"> 👋 Hi, I’m @VasishtGR </p>
 - 👀 I’m interested in Product Designing
 - 🌱 I’m currently learning Python and Designing
 - 💞️ I’m looking to collaborate on Innovative and Creative Projects
