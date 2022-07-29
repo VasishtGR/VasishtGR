@@ -17,9 +17,7 @@
 </p>
 
 
-<img align="center" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> <a href="https://twitter.com/IronAvenger475"> &nbsp;  IronAvenger475</a> 
-
-<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <a href="https://www.linkedin.com/in/samraysh-pellakur-8223255a/"> &nbsp;  Samraysh Pellakur</a> 
+<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <a href="https://www.linkedin.com/in/vasisht-gr/"> &nbsp;  Vasisht G R</a> 
 
 <div align="center">
 
