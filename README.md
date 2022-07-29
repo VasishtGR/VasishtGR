@@ -2,7 +2,6 @@
 - 👀 I’m interested in Product Designing
 - 🌱 I’m currently learning Python and Designing
 - 💞️ I’m looking to collaborate on Innovative and Creative Projects
-- 📫 How to reach me https://www.linkedin.com/in/vasisht-gr/
 
 ## Connect with me:
 
