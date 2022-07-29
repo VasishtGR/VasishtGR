@@ -6,15 +6,6 @@
 
 ## Connect with me:
 
-## 🧰 Languages and Tools:
-
-<p align="center">
-<img src="C:\Users\Rajesh Kumar\Downloads\Vasisht G R/cpp" alt="Cpp" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/VasishtGR/VasishtGR/blob/main/c-programming-569564.png" alt="Cp" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/VasishtGR/VasishtGR/blob/main/Picture1.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-</p>
-
-
 <img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <a href="https://www.linkedin.com/in/vasisht-gr/"> &nbsp;  Vasisht G R</a> 
 
 <div align="center">
