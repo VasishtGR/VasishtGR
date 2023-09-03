@@ -1,6 +1,6 @@
 # <p align="center"> 👋 Hi, I’m @VasishtGR </p>
 - 👀 I’m interested in Product Designing
-- 🌱 I’m currently learning Python and Designing
+- 🌱 I’m currently a UI/UX Design Intern
 - 💞️ I’m looking to collaborate on Innovative and Creative Projects
 
 ## Connect with me:
